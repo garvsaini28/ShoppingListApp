@@ -3,7 +3,8 @@ A simple and intuitive Android application to manage your daily shopping lists e
 
 📱 Screenshots
 
-Add your app screenshots here
+<img width="386" height="847" alt="image" src="https://github.com/user-attachments/assets/4f463030-0143-452c-8ffb-84e20c8dcca6" />
+
 
 
 ✨ Features
